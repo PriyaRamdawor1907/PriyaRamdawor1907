@@ -13,3 +13,6 @@ I'm especially enthusiastic about working with the **MERN stack** — building f
 - 🌱 Continuously learning new web technologies
 - 🛠️ Working with full-stack applications using **MERN**
 
+## 🌐 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/priyabhashini-ramdawor-7a7399210/) 💼
