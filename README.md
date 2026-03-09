@@ -1,8 +1,7 @@
 # 👩‍💻 Priya Ramdawor
 
-Hi there! I'm **Priya Ramdawor**, a passionate and creative **Front-End Developer** who loves crafting interactive and responsive user experiences on the web. 🚀  
+Hi there! I'm **Priya Ramdawor**, a passionate and creative **Software Developer** who loves crafting interactive and responsive user experiences on the web. 🚀  
 
-I'm especially enthusiastic about working with the **MERN stack** — building full-stack applications using **MongoDB, Express, React, and Node.js**.
 
 ---
 
